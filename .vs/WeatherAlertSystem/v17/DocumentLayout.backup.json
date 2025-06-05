@@ -115,8 +115,7 @@
               "ViewState": "AgIAADgAAAAAAAAAAAAAwDMAAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-02T16:49:44.838Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -129,8 +128,7 @@
               "ViewState": "AgIAAAMAAAAAAAAAAIBJwBEAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-02T16:57:24.251Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -143,8 +141,7 @@
               "ViewState": "AgIAAA0AAAAAAAAAAAAtwBIAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-02T16:39:22.343Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -157,8 +154,7 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-02T12:28:02.007Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -171,8 +167,7 @@
               "ViewState": "AgIAAA0AAAAAAAAAAAAswCcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-02T12:20:00.043Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -185,8 +180,7 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-03T09:54:15.814Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -199,8 +193,7 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-03T09:54:31.169Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -213,8 +206,7 @@
               "ViewState": "AgIAAAEAAAAAAAAAAAAmwA4AAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-03T08:43:49.485Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -227,8 +219,7 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-02T16:28:32.362Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -241,8 +232,7 @@
               "ViewState": "AgIAAAgAAAAAAAAAAAAAwBUAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-02T16:47:07.14Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Bookmark",
@@ -280,7 +270,7 @@
               "RelativeDocumentMoniker": "WeatherAlertSystem.API\\appsettings.json",
               "ToolTip": "D:\\WeatherAlertSystem\\WeatherAlertSystem.API\\appsettings.json",
               "RelativeToolTip": "WeatherAlertSystem.API\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-06-02T12:19:14.53Z",
               "EditorCaption": ""
@@ -295,8 +285,7 @@
               "RelativeToolTip": "WeatherAlertSystem.Infrastructure\\WeatherAlertSystem.Infrastructure.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-02T20:30:23.901Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-02T20:30:23.901Z"
             },
             {
               "$type": "Document",
@@ -308,8 +297,7 @@
               "RelativeToolTip": "WeatherAlertSystem.Application\\WeatherAlertSystem.Application.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAABgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-02T20:30:13.169Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-02T20:30:13.169Z"
             },
             {
               "$type": "Document",
@@ -321,8 +309,7 @@
               "RelativeToolTip": "WeatherAlertSystem.Domain\\Interfaces\\INotificationService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-02T12:22:34.202Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-02T12:22:34.202Z"
             },
             {
               "$type": "Document",
@@ -334,8 +321,7 @@
               "RelativeToolTip": "WeatherAlertSystem.API\\WeatherAlertSystem.API.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-03T10:07:23.494Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-03T10:07:23.494Z"
             },
             {
               "$type": "Document",
@@ -347,8 +333,7 @@
               "RelativeToolTip": "WeatherAlertSystem.Application\\Interfaces\\IWeatherAnalysisService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAABoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-02T16:49:11.185Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-02T16:49:11.185Z"
             },
             {
               "$type": "Document",
@@ -360,8 +345,7 @@
               "RelativeToolTip": "WeatherAlertSystem.Domain\\Entities\\WeatherData.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-02T09:42:58.351Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-02T09:42:58.351Z"
             },
             {
               "$type": "Document",
@@ -373,8 +357,7 @@
               "RelativeToolTip": "WeatherAlertSystem.Domain\\Entities\\WeatherLog.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-02T09:37:53.977Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-02T09:37:53.977Z"
             },
             {
               "$type": "Document",
@@ -386,8 +369,7 @@
               "RelativeToolTip": "WeatherAlertSystem.Domain\\Interfaces\\IWeatherApiClient.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-02T09:45:14.313Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-02T09:45:14.313Z"
             },
             {
               "$type": "Document",
@@ -399,8 +381,7 @@
               "RelativeToolTip": "WeatherAlertSystem.Infrastructure\\Data\\AppDbContext.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAqwBkAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-02T12:17:29.824Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-02T12:17:29.824Z"
             },
             {
               "$type": "Document",
@@ -412,8 +393,7 @@
               "RelativeToolTip": "WeatherAlertSystem.Infrastructure\\Repositories\\WeatherLogRepository.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAAmwBEAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-02T16:33:43.737Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-02T16:33:43.737Z"
             },
             {
               "$type": "Document",
@@ -425,8 +405,7 @@
               "RelativeToolTip": "WeatherAlertSystem.Domain\\WeatherAlertSystem.Domain.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-02T21:39:52.914Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-02T21:39:52.914Z"
             },
             {
               "$type": "Document",
@@ -438,8 +417,7 @@
               "RelativeToolTip": "WeatherAlertSystem.Domain\\Interfaces\\IWeatherLogRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-02T12:23:13.174Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-02T12:23:13.174Z"
             }
           ]
         },

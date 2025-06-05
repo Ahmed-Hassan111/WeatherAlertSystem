@@ -1,0 +1,22 @@
+# .NET build artifacts
+bin/
+obj/
+.vs/
+*.user
+*.suo
+
+# Environment & Secrets
+appsettings*.json
+secrets.json
+*.env
+
+# Logs
+*.log
+
+# IDE settings
+.idea/
+.vscode/
+
+# Others
+TestResults/
+publish/
