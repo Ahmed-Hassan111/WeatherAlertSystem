@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "WeatherAlertSystem.API.Controllers.WeatherController",
+    "Method": "CheckWeather",
+    "RelativePath": "api/Weather/check",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "city",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

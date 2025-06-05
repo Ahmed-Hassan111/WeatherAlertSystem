@@ -1,0 +1,11 @@
+D:\WeatherAlertSystem\WeatherAlertSystem.Domain\bin\Debug\net9.0\WeatherAlertSystem.Domain.deps.json
+D:\WeatherAlertSystem\WeatherAlertSystem.Domain\bin\Debug\net9.0\WeatherAlertSystem.Domain.dll
+D:\WeatherAlertSystem\WeatherAlertSystem.Domain\bin\Debug\net9.0\WeatherAlertSystem.Domain.pdb
+D:\WeatherAlertSystem\WeatherAlertSystem.Domain\obj\Debug\net9.0\WeatherAlertSystem.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\WeatherAlertSystem\WeatherAlertSystem.Domain\obj\Debug\net9.0\WeatherAlertSystem.Domain.AssemblyInfoInputs.cache
+D:\WeatherAlertSystem\WeatherAlertSystem.Domain\obj\Debug\net9.0\WeatherAlertSystem.Domain.AssemblyInfo.cs
+D:\WeatherAlertSystem\WeatherAlertSystem.Domain\obj\Debug\net9.0\WeatherAlertSystem.Domain.csproj.CoreCompileInputs.cache
+D:\WeatherAlertSystem\WeatherAlertSystem.Domain\obj\Debug\net9.0\WeatherAlertSystem.Domain.dll
+D:\WeatherAlertSystem\WeatherAlertSystem.Domain\obj\Debug\net9.0\refint\WeatherAlertSystem.Domain.dll
+D:\WeatherAlertSystem\WeatherAlertSystem.Domain\obj\Debug\net9.0\WeatherAlertSystem.Domain.pdb
+D:\WeatherAlertSystem\WeatherAlertSystem.Domain\obj\Debug\net9.0\ref\WeatherAlertSystem.Domain.dll

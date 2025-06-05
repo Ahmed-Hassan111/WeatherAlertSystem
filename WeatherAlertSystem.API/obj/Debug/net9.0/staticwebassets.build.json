@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "qc5shj5jxvixZaSAfZQ/uE0zIZsEOFIFfpFZg1khJVY=",
+  "Source": "WeatherAlertSystem.API",
+  "BasePath": "_content/WeatherAlertSystem.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

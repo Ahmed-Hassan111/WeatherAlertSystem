@@ -1,0 +1,489 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\WeatherAlertSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{841354B1-EC30-5AC9-5EEA-91AFFE9835A1}|WeatherAlertSystem.API\\WeatherAlertSystem.API.csproj|d:\\weatheralertsystem\\weatheralertsystem.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{841354B1-EC30-5AC9-5EEA-91AFFE9835A1}|WeatherAlertSystem.API\\WeatherAlertSystem.API.csproj|solutionrelative:weatheralertsystem.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BCB4318-5D81-37BB-FAA8-9BEDFF999A8E}|WeatherAlertSystem.Domain\\WeatherAlertSystem.Domain.csproj|d:\\weatheralertsystem\\weatheralertsystem.domain\\analysisstrategies\\heavyrainanalysisstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BCB4318-5D81-37BB-FAA8-9BEDFF999A8E}|WeatherAlertSystem.Domain\\WeatherAlertSystem.Domain.csproj|solutionrelative:weatheralertsystem.domain\\analysisstrategies\\heavyrainanalysisstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BCB4318-5D81-37BB-FAA8-9BEDFF999A8E}|WeatherAlertSystem.Domain\\WeatherAlertSystem.Domain.csproj|d:\\weatheralertsystem\\weatheralertsystem.domain\\analysisstrategies\\strongwindanalysisstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BCB4318-5D81-37BB-FAA8-9BEDFF999A8E}|WeatherAlertSystem.Domain\\WeatherAlertSystem.Domain.csproj|solutionrelative:weatheralertsystem.domain\\analysisstrategies\\strongwindanalysisstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44D0E27D-8D38-79B0-96B3-7BE6CF307840}|WeatherAlertSystem.Application\\WeatherAlertSystem.Application.csproj|d:\\weatheralertsystem\\weatheralertsystem.application\\weatheralertsystem.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{44D0E27D-8D38-79B0-96B3-7BE6CF307840}|WeatherAlertSystem.Application\\WeatherAlertSystem.Application.csproj|solutionrelative:weatheralertsystem.application\\weatheralertsystem.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{841354B1-EC30-5AC9-5EEA-91AFFE9835A1}|WeatherAlertSystem.API\\WeatherAlertSystem.API.csproj|d:\\weatheralertsystem\\weatheralertsystem.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{841354B1-EC30-5AC9-5EEA-91AFFE9835A1}|WeatherAlertSystem.API\\WeatherAlertSystem.API.csproj|solutionrelative:weatheralertsystem.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44D0E27D-8D38-79B0-96B3-7BE6CF307840}|WeatherAlertSystem.Application\\WeatherAlertSystem.Application.csproj|d:\\weatheralertsystem\\weatheralertsystem.application\\services\\weatheranalysisservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44D0E27D-8D38-79B0-96B3-7BE6CF307840}|WeatherAlertSystem.Application\\WeatherAlertSystem.Application.csproj|solutionrelative:weatheralertsystem.application\\services\\weatheranalysisservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{841354B1-EC30-5AC9-5EEA-91AFFE9835A1}|WeatherAlertSystem.API\\WeatherAlertSystem.API.csproj|d:\\weatheralertsystem\\weatheralertsystem.api\\weatheralertsystem.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{841354B1-EC30-5AC9-5EEA-91AFFE9835A1}|WeatherAlertSystem.API\\WeatherAlertSystem.API.csproj|solutionrelative:weatheralertsystem.api\\weatheralertsystem.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BCB4318-5D81-37BB-FAA8-9BEDFF999A8E}|WeatherAlertSystem.Domain\\WeatherAlertSystem.Domain.csproj|d:\\weatheralertsystem\\weatheralertsystem.domain\\interfaces\\inotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BCB4318-5D81-37BB-FAA8-9BEDFF999A8E}|WeatherAlertSystem.Domain\\WeatherAlertSystem.Domain.csproj|solutionrelative:weatheralertsystem.domain\\interfaces\\inotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8831F955-8EF6-96C6-2F79-565C7494E2FC}|WeatherAlertSystem.Infrastructure\\WeatherAlertSystem.Infrastructure.csproj|d:\\weatheralertsystem\\weatheralertsystem.infrastructure\\clients\\twilionotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8831F955-8EF6-96C6-2F79-565C7494E2FC}|WeatherAlertSystem.Infrastructure\\WeatherAlertSystem.Infrastructure.csproj|solutionrelative:weatheralertsystem.infrastructure\\clients\\twilionotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8831F955-8EF6-96C6-2F79-565C7494E2FC}|WeatherAlertSystem.Infrastructure\\WeatherAlertSystem.Infrastructure.csproj|d:\\weatheralertsystem\\weatheralertsystem.infrastructure\\weatheralertsystem.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8831F955-8EF6-96C6-2F79-565C7494E2FC}|WeatherAlertSystem.Infrastructure\\WeatherAlertSystem.Infrastructure.csproj|solutionrelative:weatheralertsystem.infrastructure\\weatheralertsystem.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8831F955-8EF6-96C6-2F79-565C7494E2FC}|WeatherAlertSystem.Infrastructure\\WeatherAlertSystem.Infrastructure.csproj|d:\\weatheralertsystem\\weatheralertsystem.infrastructure\\clients\\weatherapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8831F955-8EF6-96C6-2F79-565C7494E2FC}|WeatherAlertSystem.Infrastructure\\WeatherAlertSystem.Infrastructure.csproj|solutionrelative:weatheralertsystem.infrastructure\\clients\\weatherapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{841354B1-EC30-5AC9-5EEA-91AFFE9835A1}|WeatherAlertSystem.API\\WeatherAlertSystem.API.csproj|d:\\weatheralertsystem\\weatheralertsystem.api\\controllers\\weathercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{841354B1-EC30-5AC9-5EEA-91AFFE9835A1}|WeatherAlertSystem.API\\WeatherAlertSystem.API.csproj|solutionrelative:weatheralertsystem.api\\controllers\\weathercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BCB4318-5D81-37BB-FAA8-9BEDFF999A8E}|WeatherAlertSystem.Domain\\WeatherAlertSystem.Domain.csproj|d:\\weatheralertsystem\\weatheralertsystem.domain\\interfaces\\iwindanalysisstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BCB4318-5D81-37BB-FAA8-9BEDFF999A8E}|WeatherAlertSystem.Domain\\WeatherAlertSystem.Domain.csproj|solutionrelative:weatheralertsystem.domain\\interfaces\\iwindanalysisstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BCB4318-5D81-37BB-FAA8-9BEDFF999A8E}|WeatherAlertSystem.Domain\\WeatherAlertSystem.Domain.csproj|d:\\weatheralertsystem\\weatheralertsystem.domain\\interfaces\\irainanalysisstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BCB4318-5D81-37BB-FAA8-9BEDFF999A8E}|WeatherAlertSystem.Domain\\WeatherAlertSystem.Domain.csproj|solutionrelative:weatheralertsystem.domain\\interfaces\\irainanalysisstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BCB4318-5D81-37BB-FAA8-9BEDFF999A8E}|WeatherAlertSystem.Domain\\WeatherAlertSystem.Domain.csproj|d:\\weatheralertsystem\\weatheralertsystem.domain\\interfaces\\iweatheranalysisstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BCB4318-5D81-37BB-FAA8-9BEDFF999A8E}|WeatherAlertSystem.Domain\\WeatherAlertSystem.Domain.csproj|solutionrelative:weatheralertsystem.domain\\interfaces\\iweatheranalysisstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44D0E27D-8D38-79B0-96B3-7BE6CF307840}|WeatherAlertSystem.Application\\WeatherAlertSystem.Application.csproj|d:\\weatheralertsystem\\weatheralertsystem.application\\interfaces\\iweatheranalysisservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44D0E27D-8D38-79B0-96B3-7BE6CF307840}|WeatherAlertSystem.Application\\WeatherAlertSystem.Application.csproj|solutionrelative:weatheralertsystem.application\\interfaces\\iweatheranalysisservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BCB4318-5D81-37BB-FAA8-9BEDFF999A8E}|WeatherAlertSystem.Domain\\WeatherAlertSystem.Domain.csproj|d:\\weatheralertsystem\\weatheralertsystem.domain\\entities\\weatherlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BCB4318-5D81-37BB-FAA8-9BEDFF999A8E}|WeatherAlertSystem.Domain\\WeatherAlertSystem.Domain.csproj|solutionrelative:weatheralertsystem.domain\\entities\\weatherlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BCB4318-5D81-37BB-FAA8-9BEDFF999A8E}|WeatherAlertSystem.Domain\\WeatherAlertSystem.Domain.csproj|d:\\weatheralertsystem\\weatheralertsystem.domain\\entities\\weatherdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BCB4318-5D81-37BB-FAA8-9BEDFF999A8E}|WeatherAlertSystem.Domain\\WeatherAlertSystem.Domain.csproj|solutionrelative:weatheralertsystem.domain\\entities\\weatherdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BCB4318-5D81-37BB-FAA8-9BEDFF999A8E}|WeatherAlertSystem.Domain\\WeatherAlertSystem.Domain.csproj|d:\\weatheralertsystem\\weatheralertsystem.domain\\interfaces\\iweatherapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BCB4318-5D81-37BB-FAA8-9BEDFF999A8E}|WeatherAlertSystem.Domain\\WeatherAlertSystem.Domain.csproj|solutionrelative:weatheralertsystem.domain\\interfaces\\iweatherapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8831F955-8EF6-96C6-2F79-565C7494E2FC}|WeatherAlertSystem.Infrastructure\\WeatherAlertSystem.Infrastructure.csproj|d:\\weatheralertsystem\\weatheralertsystem.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8831F955-8EF6-96C6-2F79-565C7494E2FC}|WeatherAlertSystem.Infrastructure\\WeatherAlertSystem.Infrastructure.csproj|solutionrelative:weatheralertsystem.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8831F955-8EF6-96C6-2F79-565C7494E2FC}|WeatherAlertSystem.Infrastructure\\WeatherAlertSystem.Infrastructure.csproj|d:\\weatheralertsystem\\weatheralertsystem.infrastructure\\repositories\\weatherlogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8831F955-8EF6-96C6-2F79-565C7494E2FC}|WeatherAlertSystem.Infrastructure\\WeatherAlertSystem.Infrastructure.csproj|solutionrelative:weatheralertsystem.infrastructure\\repositories\\weatherlogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BCB4318-5D81-37BB-FAA8-9BEDFF999A8E}|WeatherAlertSystem.Domain\\WeatherAlertSystem.Domain.csproj|d:\\weatheralertsystem\\weatheralertsystem.domain\\weatheralertsystem.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6BCB4318-5D81-37BB-FAA8-9BEDFF999A8E}|WeatherAlertSystem.Domain\\WeatherAlertSystem.Domain.csproj|solutionrelative:weatheralertsystem.domain\\weatheralertsystem.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BCB4318-5D81-37BB-FAA8-9BEDFF999A8E}|WeatherAlertSystem.Domain\\WeatherAlertSystem.Domain.csproj|d:\\weatheralertsystem\\weatheralertsystem.domain\\interfaces\\iweatherlogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BCB4318-5D81-37BB-FAA8-9BEDFF999A8E}|WeatherAlertSystem.Domain\\WeatherAlertSystem.Domain.csproj|solutionrelative:weatheralertsystem.domain\\interfaces\\iweatherlogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 366,
+          "SelectedChildIndex": 17,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WeatherAnalysisService.cs",
+              "DocumentMoniker": "D:\\WeatherAlertSystem\\WeatherAlertSystem.Application\\Services\\WeatherAnalysisService.cs",
+              "RelativeDocumentMoniker": "WeatherAlertSystem.Application\\Services\\WeatherAnalysisService.cs",
+              "ToolTip": "D:\\WeatherAlertSystem\\WeatherAlertSystem.Application\\Services\\WeatherAnalysisService.cs",
+              "RelativeToolTip": "WeatherAlertSystem.Application\\Services\\WeatherAnalysisService.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAAwDMAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T16:49:44.838Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WeatherController.cs",
+              "DocumentMoniker": "D:\\WeatherAlertSystem\\WeatherAlertSystem.API\\Controllers\\WeatherController.cs",
+              "RelativeDocumentMoniker": "WeatherAlertSystem.API\\Controllers\\WeatherController.cs",
+              "ToolTip": "D:\\WeatherAlertSystem\\WeatherAlertSystem.API\\Controllers\\WeatherController.cs",
+              "RelativeToolTip": "WeatherAlertSystem.API\\Controllers\\WeatherController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwBEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T16:57:24.251Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WeatherApiClient.cs",
+              "DocumentMoniker": "D:\\WeatherAlertSystem\\WeatherAlertSystem.Infrastructure\\Clients\\WeatherApiClient.cs",
+              "RelativeDocumentMoniker": "WeatherAlertSystem.Infrastructure\\Clients\\WeatherApiClient.cs",
+              "ToolTip": "D:\\WeatherAlertSystem\\WeatherAlertSystem.Infrastructure\\Clients\\WeatherApiClient.cs",
+              "RelativeToolTip": "WeatherAlertSystem.Infrastructure\\Clients\\WeatherApiClient.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAtwBIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T16:39:22.343Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IWeatherAnalysisStrategy.cs",
+              "DocumentMoniker": "D:\\WeatherAlertSystem\\WeatherAlertSystem.Domain\\Interfaces\\IWeatherAnalysisStrategy.cs",
+              "RelativeDocumentMoniker": "WeatherAlertSystem.Domain\\Interfaces\\IWeatherAnalysisStrategy.cs",
+              "ToolTip": "D:\\WeatherAlertSystem\\WeatherAlertSystem.Domain\\Interfaces\\IWeatherAnalysisStrategy.cs",
+              "RelativeToolTip": "WeatherAlertSystem.Domain\\Interfaces\\IWeatherAnalysisStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T12:28:02.007Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\WeatherAlertSystem\\WeatherAlertSystem.API\\Program.cs",
+              "RelativeDocumentMoniker": "WeatherAlertSystem.API\\Program.cs",
+              "ToolTip": "D:\\WeatherAlertSystem\\WeatherAlertSystem.API\\Program.cs",
+              "RelativeToolTip": "WeatherAlertSystem.API\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAswCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T12:20:00.043Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IRainAnalysisStrategy.cs",
+              "DocumentMoniker": "D:\\WeatherAlertSystem\\WeatherAlertSystem.Domain\\Interfaces\\IRainAnalysisStrategy.cs",
+              "RelativeDocumentMoniker": "WeatherAlertSystem.Domain\\Interfaces\\IRainAnalysisStrategy.cs",
+              "ToolTip": "D:\\WeatherAlertSystem\\WeatherAlertSystem.Domain\\Interfaces\\IRainAnalysisStrategy.cs",
+              "RelativeToolTip": "WeatherAlertSystem.Domain\\Interfaces\\IRainAnalysisStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T09:54:15.814Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IWindAnalysisStrategy.cs",
+              "DocumentMoniker": "D:\\WeatherAlertSystem\\WeatherAlertSystem.Domain\\Interfaces\\IWindAnalysisStrategy.cs",
+              "RelativeDocumentMoniker": "WeatherAlertSystem.Domain\\Interfaces\\IWindAnalysisStrategy.cs",
+              "ToolTip": "D:\\WeatherAlertSystem\\WeatherAlertSystem.Domain\\Interfaces\\IWindAnalysisStrategy.cs",
+              "RelativeToolTip": "WeatherAlertSystem.Domain\\Interfaces\\IWindAnalysisStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T09:54:31.169Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StrongWindAnalysisStrategy.cs",
+              "DocumentMoniker": "D:\\WeatherAlertSystem\\WeatherAlertSystem.Domain\\AnalysisStrategies\\StrongWindAnalysisStrategy.cs",
+              "RelativeDocumentMoniker": "WeatherAlertSystem.Domain\\AnalysisStrategies\\StrongWindAnalysisStrategy.cs",
+              "ToolTip": "D:\\WeatherAlertSystem\\WeatherAlertSystem.Domain\\AnalysisStrategies\\StrongWindAnalysisStrategy.cs",
+              "RelativeToolTip": "WeatherAlertSystem.Domain\\AnalysisStrategies\\StrongWindAnalysisStrategy.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAmwA4AAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T08:43:49.485Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HeavyRainAnalysisStrategy.cs",
+              "DocumentMoniker": "D:\\WeatherAlertSystem\\WeatherAlertSystem.Domain\\AnalysisStrategies\\HeavyRainAnalysisStrategy.cs",
+              "RelativeDocumentMoniker": "WeatherAlertSystem.Domain\\AnalysisStrategies\\HeavyRainAnalysisStrategy.cs",
+              "ToolTip": "D:\\WeatherAlertSystem\\WeatherAlertSystem.Domain\\AnalysisStrategies\\HeavyRainAnalysisStrategy.cs",
+              "RelativeToolTip": "WeatherAlertSystem.Domain\\AnalysisStrategies\\HeavyRainAnalysisStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T16:28:32.362Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TwilioNotificationService.cs",
+              "DocumentMoniker": "D:\\WeatherAlertSystem\\WeatherAlertSystem.Infrastructure\\Clients\\TwilioNotificationService.cs",
+              "RelativeDocumentMoniker": "WeatherAlertSystem.Infrastructure\\Clients\\TwilioNotificationService.cs",
+              "ToolTip": "D:\\WeatherAlertSystem\\WeatherAlertSystem.Infrastructure\\Clients\\TwilioNotificationService.cs",
+              "RelativeToolTip": "WeatherAlertSystem.Infrastructure\\Clients\\TwilioNotificationService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBUAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T16:47:07.14Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\WeatherAlertSystem\\WeatherAlertSystem.API\\appsettings.json",
+              "RelativeDocumentMoniker": "WeatherAlertSystem.API\\appsettings.json",
+              "ToolTip": "D:\\WeatherAlertSystem\\WeatherAlertSystem.API\\appsettings.json",
+              "RelativeToolTip": "WeatherAlertSystem.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-02T12:19:14.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WeatherAlertSystem.Infrastructure.csproj",
+              "DocumentMoniker": "D:\\WeatherAlertSystem\\WeatherAlertSystem.Infrastructure\\WeatherAlertSystem.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "WeatherAlertSystem.Infrastructure\\WeatherAlertSystem.Infrastructure.csproj",
+              "ToolTip": "D:\\WeatherAlertSystem\\WeatherAlertSystem.Infrastructure\\WeatherAlertSystem.Infrastructure.csproj",
+              "RelativeToolTip": "WeatherAlertSystem.Infrastructure\\WeatherAlertSystem.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-02T20:30:23.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WeatherAlertSystem.Application.csproj",
+              "DocumentMoniker": "D:\\WeatherAlertSystem\\WeatherAlertSystem.Application\\WeatherAlertSystem.Application.csproj",
+              "RelativeDocumentMoniker": "WeatherAlertSystem.Application\\WeatherAlertSystem.Application.csproj",
+              "ToolTip": "D:\\WeatherAlertSystem\\WeatherAlertSystem.Application\\WeatherAlertSystem.Application.csproj",
+              "RelativeToolTip": "WeatherAlertSystem.Application\\WeatherAlertSystem.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-02T20:30:13.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "INotificationService.cs",
+              "DocumentMoniker": "D:\\WeatherAlertSystem\\WeatherAlertSystem.Domain\\Interfaces\\INotificationService.cs",
+              "RelativeDocumentMoniker": "WeatherAlertSystem.Domain\\Interfaces\\INotificationService.cs",
+              "ToolTip": "D:\\WeatherAlertSystem\\WeatherAlertSystem.Domain\\Interfaces\\INotificationService.cs",
+              "RelativeToolTip": "WeatherAlertSystem.Domain\\Interfaces\\INotificationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T12:22:34.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WeatherAlertSystem.API.csproj",
+              "DocumentMoniker": "D:\\WeatherAlertSystem\\WeatherAlertSystem.API\\WeatherAlertSystem.API.csproj",
+              "RelativeDocumentMoniker": "WeatherAlertSystem.API\\WeatherAlertSystem.API.csproj",
+              "ToolTip": "D:\\WeatherAlertSystem\\WeatherAlertSystem.API\\WeatherAlertSystem.API.csproj",
+              "RelativeToolTip": "WeatherAlertSystem.API\\WeatherAlertSystem.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-03T10:07:23.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IWeatherAnalysisService.cs",
+              "DocumentMoniker": "D:\\WeatherAlertSystem\\WeatherAlertSystem.Application\\Interfaces\\IWeatherAnalysisService.cs",
+              "RelativeDocumentMoniker": "WeatherAlertSystem.Application\\Interfaces\\IWeatherAnalysisService.cs",
+              "ToolTip": "D:\\WeatherAlertSystem\\WeatherAlertSystem.Application\\Interfaces\\IWeatherAnalysisService.cs",
+              "RelativeToolTip": "WeatherAlertSystem.Application\\Interfaces\\IWeatherAnalysisService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAABoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T16:49:11.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "WeatherData.cs",
+              "DocumentMoniker": "D:\\WeatherAlertSystem\\WeatherAlertSystem.Domain\\Entities\\WeatherData.cs",
+              "RelativeDocumentMoniker": "WeatherAlertSystem.Domain\\Entities\\WeatherData.cs",
+              "ToolTip": "D:\\WeatherAlertSystem\\WeatherAlertSystem.Domain\\Entities\\WeatherData.cs",
+              "RelativeToolTip": "WeatherAlertSystem.Domain\\Entities\\WeatherData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T09:42:58.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "WeatherLog.cs",
+              "DocumentMoniker": "D:\\WeatherAlertSystem\\WeatherAlertSystem.Domain\\Entities\\WeatherLog.cs",
+              "RelativeDocumentMoniker": "WeatherAlertSystem.Domain\\Entities\\WeatherLog.cs",
+              "ToolTip": "D:\\WeatherAlertSystem\\WeatherAlertSystem.Domain\\Entities\\WeatherLog.cs",
+              "RelativeToolTip": "WeatherAlertSystem.Domain\\Entities\\WeatherLog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T09:37:53.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IWeatherApiClient.cs",
+              "DocumentMoniker": "D:\\WeatherAlertSystem\\WeatherAlertSystem.Domain\\Interfaces\\IWeatherApiClient.cs",
+              "RelativeDocumentMoniker": "WeatherAlertSystem.Domain\\Interfaces\\IWeatherApiClient.cs",
+              "ToolTip": "D:\\WeatherAlertSystem\\WeatherAlertSystem.Domain\\Interfaces\\IWeatherApiClient.cs",
+              "RelativeToolTip": "WeatherAlertSystem.Domain\\Interfaces\\IWeatherApiClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T09:45:14.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\WeatherAlertSystem\\WeatherAlertSystem.Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "WeatherAlertSystem.Infrastructure\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\WeatherAlertSystem\\WeatherAlertSystem.Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "WeatherAlertSystem.Infrastructure\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAqwBkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T12:17:29.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "WeatherLogRepository.cs",
+              "DocumentMoniker": "D:\\WeatherAlertSystem\\WeatherAlertSystem.Infrastructure\\Repositories\\WeatherLogRepository.cs",
+              "RelativeDocumentMoniker": "WeatherAlertSystem.Infrastructure\\Repositories\\WeatherLogRepository.cs",
+              "ToolTip": "D:\\WeatherAlertSystem\\WeatherAlertSystem.Infrastructure\\Repositories\\WeatherLogRepository.cs",
+              "RelativeToolTip": "WeatherAlertSystem.Infrastructure\\Repositories\\WeatherLogRepository.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAmwBEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T16:33:43.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "WeatherAlertSystem.Domain.csproj",
+              "DocumentMoniker": "D:\\WeatherAlertSystem\\WeatherAlertSystem.Domain\\WeatherAlertSystem.Domain.csproj",
+              "RelativeDocumentMoniker": "WeatherAlertSystem.Domain\\WeatherAlertSystem.Domain.csproj",
+              "ToolTip": "D:\\WeatherAlertSystem\\WeatherAlertSystem.Domain\\WeatherAlertSystem.Domain.csproj",
+              "RelativeToolTip": "WeatherAlertSystem.Domain\\WeatherAlertSystem.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-02T21:39:52.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IWeatherLogRepository.cs",
+              "DocumentMoniker": "D:\\WeatherAlertSystem\\WeatherAlertSystem.Domain\\Interfaces\\IWeatherLogRepository.cs",
+              "RelativeDocumentMoniker": "WeatherAlertSystem.Domain\\Interfaces\\IWeatherLogRepository.cs",
+              "ToolTip": "D:\\WeatherAlertSystem\\WeatherAlertSystem.Domain\\Interfaces\\IWeatherLogRepository.cs",
+              "RelativeToolTip": "WeatherAlertSystem.Domain\\Interfaces\\IWeatherLogRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T12:23:13.174Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 88,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 49,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{de1fc918-f32e-4dd7-a915-1792a051f26b}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
